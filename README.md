@@ -1,1 +1,3 @@
-# simple-py
+cv2
+mediapipe
+pyautogui
